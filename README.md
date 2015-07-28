@@ -1,2 +1,4 @@
 # Google-Protocol-buffer-socket
-using Google Protocol Buffer for socket communication
+1.using Google Protocol Buffer over socket ;
+2.platform: Linux;
+3.coding language:c++;
