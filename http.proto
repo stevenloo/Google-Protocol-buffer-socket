@@ -1,0 +1,13 @@
+message http_packet
+{
+	optional string url=1;
+	optional string cookie=2;
+	optional string src_ip=3;
+	optional string dst_ip=4;
+	optional string cont_type=5;
+	optional string cont_length=6;
+	optional string location=7;
+	optional string referer=8;
+	optional int64  pid=9;
+	repeated string other_field=10;
+}
